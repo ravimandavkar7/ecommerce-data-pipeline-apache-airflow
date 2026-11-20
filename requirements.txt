@@ -1,0 +1,18 @@
+# Data Processing
+pandas
+numpy
+
+# SQL Server Connectivity
+pyodbc
+
+# Snowflake Connectivity
+snowflake-connector-python[pandas]
+
+# Configuration Management
+configparser
+
+# Airflow
+apache-airflow
+
+# Date and Time
+pendulum
